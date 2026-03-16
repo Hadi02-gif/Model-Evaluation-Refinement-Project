@@ -51,3 +51,5 @@ To reproduce the analysis:
 2.  Ensure you have Python (3.7+) and necessary libraries installed (e.g., `pandas`, `scikit-learn`, `matplotlib`, `seaborn`, `xgboost`).
 3.  Open the `.ipynb` file in a Jupyter environment (e.g., Jupyter Lab, VS Code with Python extension, Google Colab).
 4.  Run all cells in sequence.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Hadi02-gif/Model_Evaluation_Refinement_Project/blob/main/Model_Evaluation_and_Refinement.ipynb)
