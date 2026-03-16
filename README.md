@@ -41,7 +41,7 @@ Our analysis successfully identified and overcame challenges posed by extreme ou
 
 Key visualizations illustrating model performance (Actual vs. Predicted, Residual Plots) are included within the Jupyter notebook itself. You can view these directly by opening the `.ipynb` file on GitHub or in a Jupyter environment.
 
-*   **Link to Jupyter Notebook:** [Your-Notebook-Name.ipynb](Model_Evaluation_and_Refinement.ipynb)
+*   **Link to Jupyter Notebook:** [Model_Evaluation_and_Refinement.ipynb](Model_Evaluation_and_Refinement.ipynb)
 
 ## How to Run the Notebook
 
